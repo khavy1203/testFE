@@ -1,0 +1,24 @@
+.container{
+    width: auto;
+    height: 935px;
+    display: flex;
+  }
+  .sidebar{
+    width: 12.8%;
+    height: 100%;
+    background: #191718;
+  }
+  .content{
+    width: 87.2%;
+    height: auto;
+    background: #FFFFFF;
+  }
+  hr{
+    
+    height: 0px;
+    left: 0px;
+    right: 0px;
+    top: 1px;
+    border: 1px solid #DEDEDE;
+  }
+  
