@@ -2,7 +2,10 @@ import './Footer.css'
 const Footer = () => {
     return (
         <>
-        footer
+        <div className="footer"><p>
+            CoopyRight @ 123
+        </p></div>
+        
         </>
     )
 }

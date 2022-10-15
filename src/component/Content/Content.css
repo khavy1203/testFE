@@ -2,12 +2,11 @@
    width: 100%;
    height: 122px;
    margin-top: 20px;
-margin-bottom: 50px;
+    margin-bottom: 50px;
 }   
 .center {
     display: flex;
     flex-direction:column ;
-    justify-content: center;
     align-items: center;
     width: 100%;
     font-family: 'Roboto';
@@ -15,6 +14,7 @@ margin-bottom: 50px;
     font-size: 18px;
     color: #000000;
     text-align: center;
+    min-height: 700px;
     
  } 
 .center .content-center{
@@ -40,6 +40,20 @@ margin-bottom: 50px;
     width: 128px;
     height: 128px;
     background:  url(../../img/html.png);
+    background-repeat: no-repeat;
+    float:left;
+}
+.hinh-anh-2{
+    width: 128px;
+    height: 128px;
+    background:  url(../../img/css.png);
+    background-repeat: no-repeat;
+    float:left;
+}
+.hinh-anh-3{
+    width: 128px;
+    height: 128px;
+    background:  url(../../img/url.png);
     background-repeat: no-repeat;
     float:left;
 }

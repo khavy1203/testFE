@@ -52,7 +52,7 @@ const Content = () => {
               </h5>
             </div>  
             <div className="item-down-body">
-                <div className="hinh-anh-1"></div>
+                <div className="hinh-anh-2"></div>
                 <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi
               suscipit nam veritatis animi voluptate vitae, sunt in magnam. Quis
@@ -71,7 +71,7 @@ const Content = () => {
               </h5>
             </div>  
             <div className="item-down-body">
-                <div className="hinh-anh-1"></div>
+                <div className="hinh-anh-3"></div>
                 <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi
               suscipit nam veritatis animi voluptate vitae, sunt in magnam. Quis
